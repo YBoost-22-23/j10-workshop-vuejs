@@ -67,7 +67,7 @@ Secondly, if you want to go further in your learning you can implement a few thi
 - Linkedin: [@Wassim Saioudi](https://www.linkedin.com/in/wassim-saioudi/)
 - Github: [@2va2s](https://github.com/orgs/YBoost-22-23/people/2va2s)
 
-# todo-vue
+# todo-vuetify example:
 
 ## Project setup
 ```
